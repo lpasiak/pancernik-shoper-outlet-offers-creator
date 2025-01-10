@@ -1,2 +1,6 @@
 *.bat
 /data
+gsheets-credentials.json
+gsheets.py
+gsheets-test.py
+*.xlsx
